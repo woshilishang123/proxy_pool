@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+
+# proxy_pool
+代理池，基于https://github.com/Python3WebSpider/ProxyPool
+# 修改了源代码中错误部分
+# 基于selenium 重新写了proxy网站爬虫
+
+=======
 # ProxyPool
 
 ## 安装
@@ -51,7 +57,4 @@ def get_proxy():
     except ConnectionError:
         return None
 ```
-=======
-# proxy_pool
-代理池，基于https://github.com/Python3WebSpider/ProxyPool
->>>>>>> c80b24ebf5ba6cd2fb275195cee2ba08d63981a1
+
