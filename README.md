@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProxyPool
 
 ## 安装
@@ -50,3 +51,7 @@ def get_proxy():
     except ConnectionError:
         return None
 ```
+=======
+# proxy_pool
+代理池，基于https://github.com/Python3WebSpider/ProxyPool
+>>>>>>> c80b24ebf5ba6cd2fb275195cee2ba08d63981a1
