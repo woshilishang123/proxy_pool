@@ -1,0 +1,4 @@
+aiohttp
+Flask
+redis
+selenium
